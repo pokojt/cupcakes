@@ -1,0 +1,44 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+p.author {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+}
+
+.best {
+  font-size: 30px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 75px;
+}
+
+body {
+  background-color: lightblue;
+  text-align: center;
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+
+img.cupcakepicture {
+  width: 300px;
+  height: auto;
+}
+
+.shoppicture {
+  width: 700px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
